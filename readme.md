@@ -5,3 +5,7 @@
 ## Game Concept
 
 - open world quest game
+
+## What I've learned from this project
+
+- npc collision avoidance

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class NpcPatrol : MonoBehaviour
 {
-    public float speed;
+    public static float speed;
     public float timer;
     public Transform[] moveSpot;
     public float startWaitTime;
